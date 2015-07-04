@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RIMS</string>
+    <string name="action_search">查找</string>
+    <string name="action_add">添加</string>
+    <string name="menu_addPeople">添加新户</string>
+    <string name="menu_scan">扫一扫</string>
+    <string name="menu_feedback">意见反馈</string>
+    <string name="tab_people">住户</string>
+    <string name="tab_house">住房</string>
+    <string name="tab_count">统计</string>
+    <string name="tab_board">公告</string>
+    <string name="title_houseInfo">家庭成员信息</string>
+    <string name="title_peopleDetail">住户详细信息</string>
+    <string name="title_modifyPeople">修改住户信息</string>
+
+</resources>
